@@ -3,7 +3,7 @@
         "**/*.pyc": true,
         "**/__pycache__": true,
         "**/*.egg-info": true,
-        ".pytest_cache": true,
+        "**/.pytest_cache": true,
         "*.coverage": true,
         "*.coverage.*": true,
         "requirements*.txt": true,
