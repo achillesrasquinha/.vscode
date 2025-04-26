@@ -19,7 +19,8 @@
         "**pid**": true,
         "**/*.eggs": true,
         "**/.cache": true,
-        "**/*.ipynb_checkpoints": true
+        "**/*.ipynb_checkpoints": true,
+        "package-lock.json": true,
     },
     "terminal.integrated.scrollback": 10000,
     "editor.rulers": [78],
